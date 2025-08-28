@@ -8,8 +8,24 @@
 
 
 <url>
-  <loc>https://drshobhalal.netlify.app/</loc>
-  <lastmod>2025-05-16T04:28:00+00:00</lastmod>
+  <loc>https://prince78bhaskar.github.io/</loc>
+  <lastmod>2025-08-28T08:38:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://prince78bhaskar.github.io/about.html</loc>
+  <lastmod>2025-08-28T08:38:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prince78bhaskar.github.io/sevices.html</loc>
+  <lastmod>2025-08-28T08:38:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prince78bhaskar.github.io/contact.html</loc>
+  <lastmod>2025-08-28T08:38:23+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
